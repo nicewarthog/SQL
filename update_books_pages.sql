@@ -1,4 +1,4 @@
 -- 4. Написати запит, який змінює кількість сторінок у вказаної книги
 
 UPDATE books
-SET pages = 999 WHERE id = 2
+SET pages = 999 WHERE id = 106

@@ -2,4 +2,4 @@
 
 SELECT count(book_name)
 FROM books
-WHERE author_id = 1
+WHERE author_id = 13
