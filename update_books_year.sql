@@ -2,4 +2,4 @@
 
 UPDATE books
 SET book_year = YEAR(current_date)
-WHERE id = 49
+WHERE id = 107

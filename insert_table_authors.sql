@@ -1,8 +1,8 @@
 -- 1. Написати запит, який заповнить таблицю авторів даними (5+ записів)
 
 INSERT INTO authors (author_firstname, author_lastname)
-VALUES ('Taras', 'Shevchenko'),
-       ('Ivan', 'Franko'),
-       ('Serhiy', 'Zhadan'),
-       ('Vsevolod', 'Nestayko'),
-       ('Oleksandr', 'Dovzhenko')
+VALUES ('Jack', 'London'),
+       ('George', 'Martin'),
+       ('Lewis', 'Carroll'),
+       ('Stephen', 'King'),
+       ('Arthur', 'Conan Doyle')
